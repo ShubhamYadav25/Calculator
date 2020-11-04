@@ -1,0 +1,134 @@
+*{
+ box-sizing: border-box;
+ font-family: Arial, Helvetica, sans-serif;
+ font-weight: 100;
+ margin: 0;
+ padding: 0;
+}
+header{
+ background-color: rgba(68, 64, 64, 0.575);
+ height: 120px;
+}
+header h1{
+ color: rgba(233, 227, 227, 0.746);
+ text-align: center;
+ padding-top: 35px;
+ letter-spacing: 2px;
+ font-size: 30px;
+}
+body{
+ background-color: #222222;
+}
+main{
+ background-color: rgba(68, 64, 64, 0.575);
+ height: 560px;
+ width: 380px;
+ margin: 50px 440px;
+ padding: 29px;
+ box-shadow: 0 5px 5px #000000;
+}
+.w{
+ margin: 0;
+ padding: 0;
+}
+.w .m{
+ width: 315px;
+ height: 70px;
+ background-color: rgba(34, 31, 31, 0.801);
+ color: white;
+ border:1px solid #999;
+ text-align: right;
+ font-size: 20px;
+ font-weight: 100;
+ margin-left: 0;
+}
+ #n{
+ width: 155px;
+ height: 80px;
+ border: none;
+ margin-top: 8px;
+ background-color: rgba(255, 6, 6, 0.664);
+ box-shadow: 0 2px 2px #222222;
+
+
+}
+
+#qwe{
+ width: 155px;
+ height: 80px;
+ margin-top: 8px;
+ border: none;
+ box-shadow: 0 2px 2px #222222;
+
+}
+button:active{
+ transform: translateY(1px);
+}
+button:focus{
+ border: none;
+ outline: none;
+}
+.e{
+ margin-top: 2px;
+}
+.e button{
+ width: 74px;
+ height: 83px;
+ margin-top: 8px; 
+ color: antiquewhite;
+ background-color: #222222;
+ border: none;
+ box-shadow: 0 2px 2px #111111;
+}
+
+
+
+
+#x{
+ width: 80px;
+ background-color: rgba(194, 185, 185, 0.287);
+}
+#j{
+ width: 80px;
+ background-color: rgba(194, 185, 185, 0.287);
+}
+#d{
+ width: 80px;
+ background-color: rgba(194, 185, 185, 0.287);
+}
+#o{
+ width: 80px;
+ background-color: rgba(194, 185, 185, 0.287);
+}
+#p{
+ background-color:rgba(144, 238, 144, 0.602);
+}
+
+.y button{
+ width: 74px;
+ height: 83px;
+ margin-top: 8px;
+ color: antiquewhite;
+ background-color: #222222;
+ border: none;
+ box-shadow: 0 2px 2px #111111;
+}
+.t button{
+ width: 74px;
+ height: 83px;
+ margin-top: 8px;
+ color: antiquewhite;
+ background-color: #222222;
+ border: none;
+ box-shadow: 0 2px 2px #111111;
+
+}
+.u button{
+ width: 74px;
+ height: 83px;
+ margin-top: 8px;
+ color: antiquewhite;
+ background-color: #222222;
+ border: none;
+ box-shadow: 0 2px 2px #111111;
+}
